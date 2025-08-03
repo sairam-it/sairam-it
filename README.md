@@ -39,12 +39,12 @@
 
 
 ### 📊 GitHub Stats:
-![Sairam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sairam-it&show_icons=true&theme=dracula)
+![Sairam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sairam-it&show_icons=true&theme=tokyonight)
 
 
 
 ### 🔥 Streak Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairam-it&theme="tokyonight" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairam-it&theme=dark" alt="streak stats"/>
 </p>
