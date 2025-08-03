@@ -2,14 +2,23 @@
 <h3 align="center">A passionate tech enthusiast and computer science student from India</h3>
 
 
+
+### 📈 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sairam-it&label=Profile%20views&color=0e75b6&style=flat" alt="sairam-it" />
+</p>
+
+
+
 - 📩 mailto: sairamgoud226@gmail.com
 
----
+
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sairamgoud-palle-b36704295/)
 
----
+
 
 ### 🛠️ Languages and Tools:
 <p>
@@ -22,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 </p>
 
----
+
 
 ### 📊 GitHub Stats:
 ![Sairam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sairam-it&show_icons=true&theme=dracula)
