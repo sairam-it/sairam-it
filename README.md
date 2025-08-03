@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm SAIRAM</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm SAIRAM GOUD</h1>
+<h3 align="center">A passionate tech enthusiast and computer science student from India</h3>
 
-- 🌱 I’m currently learning **Spring Boot & React**
-- 📫 How to reach me: sairam.projects@gmail.com
+
+- 📩 mailto: sairamgoud226@gmail.com
 
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://YOUR-PORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sairamgoud-palle-b36704295/)
 
 ---
 
