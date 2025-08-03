@@ -25,4 +25,4 @@
 ---
 
 ### 📊 GitHub Stats:
-![Sairam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sairam-it&show_icons=true&theme=radical)
+![Sairam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sairam-it&show_icons=true&theme=dracula)
