@@ -3,6 +3,7 @@
 
 
 
+
 ### 📈 Profile Views
 
 <p align="left">
@@ -11,12 +12,15 @@
 
 
 
+
 - 📩 mailto: sairamgoud226@gmail.com
+
 
 
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sairamgoud-palle-b36704295/)
+
 
 
 
@@ -33,5 +37,14 @@
 
 
 
+
 ### 📊 GitHub Stats:
 ![Sairam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sairam-it&show_icons=true&theme=dracula)
+
+
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairam-it&theme=onedark" alt="streak stats"/>
+</p>
