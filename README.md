@@ -45,6 +45,6 @@
 
 ### 🔥 Streak Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairam-it&theme=onedark" alt="streak stats"/>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairam-it&theme="tokyonight" alt="streak stats"/>
 </p>
