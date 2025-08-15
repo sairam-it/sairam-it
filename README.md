@@ -12,7 +12,7 @@
 
 
 ### 📫 Reach Me At
-<p align="center">
+<p >
   <a href="mailto:sairamgoud226@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -21,7 +21,7 @@
 
 
 ### 🤝 Connect with Me
-<p align="center">
+<p >
   <a href="https://www.linkedin.com/in/sairamgoud-palle-b36704295/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -30,7 +30,7 @@
 
 
 ### 🧠 My Online Judges
-<p align="center">
+<p >
   <a href="https://leetcode.com/Sairam226">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
@@ -44,7 +44,7 @@
 
 ### 🧰 Tech Stack
 
-<p align="center">
+<p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
@@ -59,7 +59,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=sairam-it&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairam-it&theme=tokyonight" width="48%" />
 </p>
